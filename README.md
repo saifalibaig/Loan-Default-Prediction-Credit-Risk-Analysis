@@ -59,7 +59,7 @@ The project workflow includes:
 
 ## 📊 Visual Results
 **ROC-AUC Comparison:**
-![ROC-AUC Chart](images/roc_auc_comparison.png)
+![ROC-AUC Chart](images/Roc-auc-comparison.png)
 
 **Feature Importance:**
 ![Feature Importance Chart](images/feature_importance.png)
