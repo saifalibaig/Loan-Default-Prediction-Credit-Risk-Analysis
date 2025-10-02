@@ -1,4 +1,4 @@
-# Loan Default Prediction Credit Risk Analysis
+# Loan Default Prediction & Credit Risk Analysis
 
 
 ## 📄 Project Overview
