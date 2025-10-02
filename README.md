@@ -73,8 +73,18 @@ The project workflow includes:
 
 ---
 
-## ⚙️ How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/Credit-Risk-Analysis.git
-cd Credit-Risk-Analysis
+## 🚀 Future Improvements  
+- Apply **SHAP values** or **LIME** for model interpretability.  
+- Deploy as an interactive dashboard for end-users.  
+- Continuously retrain with updated borrower data.
+
+---
+
+## 📚 Tools & Libraries
+- **Python**, **Jupyter Notebook**  
+- **Pandas**, **NumPy**  
+- **Scikit-learn**  
+- **XGBoost**  
+- **Matplotlib**, **Seaborn**  
+- **SHAP** (optional)
+
